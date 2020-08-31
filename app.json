@@ -21,6 +21,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "experiments": {
+      "redesignedLogBox": true
+    },
+    "description": "App météo"
   }
 }
