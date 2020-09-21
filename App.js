@@ -10,11 +10,10 @@ import WeatherDetails from './components/WeatherDetails'
 import { colors } from './utils/index'
  
 // https://www.youtube.com/watch?v=NgDaPmxewcg
+// https://openweathermap.org/current
 
 const WEATHER_API_KEY = 'fcdb76dc0af28c0eec0f2ccfb4cc5092'
 const BASE_WEATHER_URL = 'https://api.openweathermap.org/data/2.5/weather?'
-
-require('react-native').unstable_enableLogBox()
 
 const App = () => {
 

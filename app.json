@@ -22,9 +22,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "experiments": {
-      "redesignedLogBox": true
-    },
-    "description": "App météo"
+    "description": "App météo",
+    "githubUrl": "https://github.com/sackda75/weather-app-react-native.git"
   }
 }
